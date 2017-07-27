@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Nmobile:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Nmobile-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Nmobile:war exploded" />
+    </root>
+  </artifact>
+</component>
